@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunApp>
+	<!--<App key="calc" target="%windir%\system32\calc.exe" />-->
+	<!--<App key="excel" target="%ProgramFiles%\Microsoft Office\Office11\Excel.exe" />-->
+	<!--<App key="docs" target="%windir%\Explorer.exe" args="/root,&quot;%UserProfile%\My Documents&quot;" />-->
+  <!--<App key="10.192.30.102" target="%SystemRoot%\system32\WindowsPowerShell\v1.0\powershell.exe" args="-NoExit" />-->
+  <!--<App key="ms-visio" target="C:\Program Files\File Viewer Plus 3\FVP3.EXE" />-->
+  
+  <!--<App key="sharepoint2019" target="C:\Program Files (x86)\File Viewer Plus 3\FVP3.EXE" />
+  <App key="sharepoint2016" target="C:\Program Files (x86)\File Viewer Plus 3\FVP3.EXE" />
+  <App key="sharepoint" target="C:\Program Files (x86)\File Viewer Plus 3\FVP3.EXE" />-->
+  
+  <App key="sharepoint2019" target="C:\Program Files (x86)\File Viewer Plus\FVP.EXE" />
+  <App key="sharepoint2016" target="C:\Program Files (x86)\File Viewer Plus\FVP.EXE" />
+  <App key="sharepoint" target="C:\Program Files (x86)\File Viewer Plus\FVP.EXE" />
+</RunApp>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
